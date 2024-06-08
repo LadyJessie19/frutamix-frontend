@@ -4,7 +4,7 @@
 
 ### Frutamix é uma plataforma que permite aos usuários explorar e comprar os melhores e mais doces sabores de sorvete do mercado, criando uma experiência de compra dinâmica e agradável.
 
-![Frutamix](src/assets/readme/products.png)
+![Frutamix](frontend/src/assets/readme/products.png)
 
 **Nome do Projeto:** Frutamix 🍨🍦🍧
 
@@ -31,7 +31,7 @@ Frutamix é uma plataforma fictícia de e-commerce que oferece uma ampla varieda
 
 ## Equipe de Desenvolvimento 🙋‍♀️
 
-<img src="src/assets/readme/jessie.png" alt="Developer" width="150" height="150">
+<img src="frontend/src/assets/readme/jessie.png" alt="Developer" width="150" height="150">
 
 - Desenvolvedora: [Jessie Bentes](https://github.com/LadyJessie19)
 
