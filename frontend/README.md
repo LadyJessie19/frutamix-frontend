@@ -1,8 +1,8 @@
-# FRUTAMIX
+# FRUTAMIX 🍎🍌🍇
 
-## Discover & Buy Fresh Fruits
+## Store Ice Cream
 
-### Frutamix is a platform that allows users to explore and purchase the freshest fruits, creating a dynamic and enjoyable shopping experience.
+### Frutamix is a platform that allows users to explore and purchase the best and sweetest ice cream flavors on the market, creating a dynamic and enjoyable shopping experience.
 
 ![Frutamix](src/assets/readme/products.png)
 
@@ -26,13 +26,12 @@ Frutamix is a fictional e-commerce platform that offers a wide variety of fresh 
 
 ## Key Features 🔧
 
-- User-friendly interface for browsing and purchasing fruits.
-- Integration with MongoDB for data storage.
+- User-friendly interface for browsing and purchasing ice cream.
 - Real-time inventory and stock management.
 
 ## Development Team 🙋‍♀️
 
-![Developer](src/assets/readme/jessie.png)
+<img src="src/assets/readme/jessie.png" alt="Developer" width="150" height="150">
 
 - Developer: [Jessie Bentes]("https://github.com/LadyJessie19")
 
