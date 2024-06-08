@@ -1,0 +1,52 @@
+export const theme = {
+  breakpoints: ["576px", "768px", "992px", "1200px", "1400px"],
+  grid: {
+    container: "130rem",
+    gutter: "3.2rem",
+  },
+  border: {
+    xsmallRadius: "4px",
+    smallRadius: "8px",
+    normal: "10px",
+    mediumRadius: "16px",
+    largeRadius: "24px",
+  },
+  font: {
+    almarai: "Almarai",
+    fredoka: "Fredoka",
+    light: 300,
+    normal: 400,
+    medium: 500,
+    semiBold: 600,
+    bold: 700,
+    sizes: {
+      xxsmall: "0.625rem",
+      xsmall: "0.75rem",
+      small: "0.875rem",
+      normal: "1rem",
+      medium: "1.125rem",
+      large: "1.25rem",
+      xlarge: "1.5rem",
+      xxlarge: "1.875rem",
+      huge: "4rem",
+    },
+  },
+  colors: {
+    system: "#004CE8",
+    black: "#000",
+    white: "#fff",
+    green: "#03A413",
+    darkgreen: "#006A0D",
+    purple: "#42075D",
+    lightpurple: "#42075D3",
+    erro: "#FF3333",
+    gray: "#726D6D",
+    overlay: {
+      primary: "rgba(0,0,0,.4)",
+    },
+  },
+  transition: {
+    default: "0.2s ease-in-out",
+    fast: "0.1s ease-in-out",
+  },
+};
