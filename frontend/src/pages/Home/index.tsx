@@ -1,24 +1,26 @@
 import { Link } from "react-router-dom";
+import { Container, StyledButton, StyledInput } from "./styles";
+import LogoImg from "../../assets/logos/purpleLogo.svg";
 
 function Home() {
   return (
     <>
-      <h1>Tela de Home</h1>
-      <div>
-        <nav>
-          <ul>
-            <li>
-              <Link to="/login">Login</Link>
-            </li>
-            <li>
-              <Link to="/products">Products</Link>
-            </li>
-            <li>
-              <Link to="/checkout">Checkout</Link>
-            </li>
-          </ul>
-        </nav>
-      </div>
+      <Container>
+        <img src={LogoImg} alt="Logo frutamix" />
+        <div>
+          <label htmlFor="login">
+            Usuário:
+            <StyledInput id="login" type="text" />
+          </label>
+          <label htmlFor="password">
+            Senha:
+            <StyledInput id="password" type="password" />
+          </label>
+        </div>
+        <StyledButton as={Link} to="/products">
+          Entrar
+        </StyledButton>
+      </Container>
     </>
   );
 }
